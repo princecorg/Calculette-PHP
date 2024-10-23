@@ -7,7 +7,7 @@
   </head>
   
   <body>
-    <form action = "<?php print $_SERVER['PHP_SELF'];?>" method = "post">
+    <form action = "" method = "post">
 
     Valeur 1:
       <input type = "text" name = "val1" size = "10">
