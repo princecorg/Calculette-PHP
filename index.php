@@ -21,7 +21,6 @@
       <input type = "radio" name = "operation" value = "div"> Division
       <hr />
       <input type = "submit" value = "Calculate">
-      <input type = "reset" value = "Clear">
     </form>
   </body>
 </html>
